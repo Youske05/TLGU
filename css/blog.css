@@ -256,8 +256,12 @@ img{vertical-align: top;}
 }
 .Article__block {
     position: relative;
-    display: flex;
+    /*display: flex;*/
     margin-top: 30px;
+}
+.Arcticle__img__1 {
+ margin-right: 100px;
+ margin-bottom: 30px;
 }
 .Article__info {
     margin-top: -10px;
@@ -322,7 +326,7 @@ img{vertical-align: top;}
 .old__post {
     position: relative;
     display: flex;
-    margin-left: 730px;
+    margin-left: 530px;
 }
 .old__post:hover {
     font-style: italic;
@@ -330,7 +334,7 @@ img{vertical-align: top;}
 
 
 .footer {
-    margin-top: 400px;
+    margin-top: 500px;
     width: 1400px;
     height: 800px;
     background: #316099;
