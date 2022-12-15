@@ -80,7 +80,8 @@ img{vertical-align: top;}
 }
 .container__first {
 
-    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    /*border-bottom: 1px solid rgba(0, 0, 0, 0.2);*/
+    margin-bottom: 200px;
 }
 .search__content {
     position: relative;
@@ -149,7 +150,7 @@ img{vertical-align: top;}
 }
 .Popular__house {
     margin-top: 50px;
-    margin-left: 30px;
+    margin-left: 180px;
 }
 .Popular__info {
     margin-left: 270px;
@@ -162,6 +163,7 @@ img{vertical-align: top;}
     line-height: 58px;
     letter-spacing: 0.04em;
     color: #1F3F68;
+    opacity: 0;
 }
 .popular__text {
     margin-top: 30px;
@@ -170,7 +172,7 @@ img{vertical-align: top;}
     line-height: 26px;
     letter-spacing: 0.04em;
     color: #000000;
-    opacity: 0.6;
+    opacity: 0;
 }
 .Samatha__title {
     margin-top: 40px;
@@ -230,6 +232,7 @@ img{vertical-align: top;}
     line-height: 38px;
     letter-spacing: 0.04em;
     color: #1F3F68;
+    opacity: 0;
 }
 .block__text {
     font-family: 'Gilroy',"Regular";
@@ -237,7 +240,7 @@ img{vertical-align: top;}
     line-height: 26px;
     letter-spacing: 0.04em;
     color: #000000;
-    opacity: 0.6;
+    opacity: 0;
     margin-top: 20px;
 }
 .block__2 {
@@ -249,6 +252,7 @@ img{vertical-align: top;}
 
 .container__second {
     margin-left: 280px;
+    margin-bottom: -100px;
 }
 .Article__block {
     position: relative;
@@ -326,7 +330,7 @@ img{vertical-align: top;}
 
 
 .footer {
-    margin-top: 100px;
+    margin-top: 400px;
     width: 1400px;
     height: 800px;
     background: #316099;
